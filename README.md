@@ -18,4 +18,4 @@ Este repositorio contiene soluciones a problemas algorítmicos aplicando estruct
 ## Instalación 🚀
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/GA3-220501093-AA3-EV02.git
+   (https://github.com/Zaambranogg1/JavaScript-Prompt-Resolution-.git)
